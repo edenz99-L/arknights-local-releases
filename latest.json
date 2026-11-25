@@ -1,0 +1,12 @@
+{
+ "version": "ef83a2f",
+ "data": "7e560050b03c34661db1d322d008733072352b2a",
+ "schema": 1,
+ "date": "2026-11-25",
+ "files": {
+  "windows": "arknights-local-windows.zip",
+  "mac": "arknights-local-mac.dmg",
+  "linux": "arknights-local-linux.tar.gz",
+  "data": "arknights-local-data-7e560050b03c.zip"
+ }
+}
